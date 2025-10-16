@@ -1,0 +1,5 @@
+{"event":"user_registered","email":"user1@example.com","timestamp":"2025-10-16T10:00:00Z"}
+{"event":"login_success","email":"user1@example.com","timestamp":"2025-10-16T10:01:00Z"}
+{"event":"login_failed","email":"user2@example.com","timestamp":"2025-10-16T10:02:00Z"}
+{"event":"login_failed_bad_password","email":"user2@example.com","timestamp":"2025-10-16T10:03:00Z"}
+{"event":"login_failed_user_missing","email":"user3@example.com","timestamp":"2025-10-16T10:04:00Z"}
